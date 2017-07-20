@@ -5,8 +5,8 @@
 ### **Galaxy-P in the Cloud: Educational Instance**
 
 - Accessing Galaxy instance on JetStream: [GalaxyP Summer](http://z.umn.edu/galaxypsummer){:target="_blank"}
-- Training presentation slides: [Presentation Link](https://z.umn.edu/ASMS2017presentation){:target="_blank"}
-- Training documentation: [Documentation Link](https://z.umn.edu/ASMS2017documentation){:target="_blank"}
+- Training presentation slides: [Presentation Link](){:target="_blank"}
+- Training documentation: [Documentation Link](){:target="_blank"}
 
 **Galaxy-P platform for multi-omics analysis!**
 
