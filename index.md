@@ -1,6 +1,6 @@
 
-< align = "center">
-# Welcome to the Galaxy-P training site
+
+-> Welcome to the Galaxy-P training site<-
 
 </align>
 
