@@ -2,8 +2,6 @@
 
 -> Welcome to the Galaxy-P training site<-
 
-</align>
-
 ### **Galaxy-P in the Cloud: Educational Instance**
 
 - Accessing Galaxy instance on JetStream: [GalaxyP Summer](http://z.umn.edu/galaxypsummer){:target="_blank"}
