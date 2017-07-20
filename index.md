@@ -1,8 +1,8 @@
-<p align="center"> 
+<align="center"> 
 
->>>>>>># Welcome to the Galaxy-P training site
+  # Welcome to the Galaxy-P training site
 
-</p>
+</align>
 
 ### **Galaxy-P in the Cloud: Educational Instance**
 
