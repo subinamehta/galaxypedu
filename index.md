@@ -1,10 +1,6 @@
 
-<center> <font size= "7">
 
 # Welcome to the Galaxy-P training site
-
-
-</center > </font>
 
 ### **Galaxy-P in the Cloud: Educational Instance**
 
